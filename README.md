@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Form Template - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Form Template component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/form-template)
+- [Info Page](https://codyhouse.co/ds/components/info/form-template)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
